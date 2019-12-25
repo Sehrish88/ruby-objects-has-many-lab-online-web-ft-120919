@@ -5,6 +5,6 @@ class Post
     @author = author 
   end 
   
-  def add_post_by_title()
+  
     
 end 
