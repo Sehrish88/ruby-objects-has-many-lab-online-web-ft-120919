@@ -8,5 +8,6 @@ class Author
   
   def add_post_by_title()
     @posts << post 
-    post.author
+    post.author = self 
+  end 
 end 
