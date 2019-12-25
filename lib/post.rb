@@ -4,4 +4,7 @@ class Post
     @title = title
     @author = author 
   end 
+  
+  def add_post_by_title()
+    
 end 
